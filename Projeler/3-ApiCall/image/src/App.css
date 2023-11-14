@@ -1,0 +1,25 @@
+.App{
+  margin: 10px;
+}
+.serachDiv {
+  border: 1px solid lightgray;
+  padding: 10px;
+  border-radius: 5px;
+}
+.serachDiv form {
+  display: flex;
+  flex-direction: column;
+}
+.searchText {
+  font-size: 20px;
+  font-weight: bold;
+}
+.imageList{
+  columns: 350px 5 ;
+  column-gap: 10px;
+}
+.imageListImage{
+  width: 100%;
+  margin-bottom: 10px;
+
+}
